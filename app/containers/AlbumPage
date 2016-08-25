@@ -1,0 +1,10 @@
+import React, { Component } from 'react';
+import Home from '../components/Album';
+
+export default class AlbumPage extends Component {
+  render() {
+    return (
+      <Album />
+    );
+  }
+}
